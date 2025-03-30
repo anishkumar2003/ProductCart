@@ -3,19 +3,19 @@
       "id": 1,
       "name": "Wireless Headphones",
       "price": 49.99,
-      "image": "/images/headphones.png"
+      "image": "https://cdn.pixabay.com/photo/2012/02/22/20/09/headphones-15600_1280.jpg"
     },
     {
       "id": 2,
       "name": "Smartwatch",
       "price": 79.99,
-      "image": "/images/smartwatch.png"
+      "image": "https://cdn.pixabay.com/photo/2023/10/07/14/24/smartwatch-8300238_1280.jpg"
     },
     {
       "id": 3,
       "name": "Gaming Mouse",
       "price": 39.99,
-      "image": "/images/mouse.png"
+      "image": "https://media.istockphoto.com/id/1091778794/photo/computer-mouse-isolated-on-white.jpg?s=612x612&w=0&k=20&c=mEGtmJ8dfonBrcFNeyGz0lTp7452PvcjA1DON_22ZH8="
     }
   ]
   
