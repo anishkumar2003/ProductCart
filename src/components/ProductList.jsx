@@ -16,7 +16,7 @@ function ProductList() {
 
     return (
         <div className=" flex flex-col justify-center items-center md:flex md:flex-row  gap-4 m-4 ">
-            {products.map((m)=><ProductCard key={m.id} data={m}/>)}
+            {products.map((m)=><ProductCard key={m.id} product={m}/>)}
         </div>
     );
 }
