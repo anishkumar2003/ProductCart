@@ -1,7 +1,7 @@
 🛍 Shopping Cart - React + TailwindCSS
 A simple and responsive shopping cart application built using React.js, Context API, and TailwindCSS. This project showcases product listings, an add-to-cart feature, and a dynamic shopping cart.
 
-🚀 Features
+🚀 Features<br>
 ✅ Product Listing Page – Displays a list of products dynamically.
 ✅ Product Card Component – Shows product name, image, price, and "Add to Cart" button.
 ✅ Shopping Cart Context – Uses React Context API for global state management.
