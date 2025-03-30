@@ -1,12 +1,20 @@
-# React + Vite
+🛍 Shopping Cart - React + TailwindCSS
+A simple and responsive shopping cart application built using React.js, Context API, and TailwindCSS. This project showcases product listings, an add-to-cart feature, and a dynamic shopping cart.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+✅ Product Listing Page – Displays a list of products dynamically.
+✅ Product Card Component – Shows product name, image, price, and "Add to Cart" button.
+✅ Shopping Cart Context – Uses React Context API for global state management.
+✅ Cart Page – Displays selected products, with options to remove items.
+✅ Total Price Calculation – Shows the total price of items in the cart.
+✅ Responsive UI – Built using TailwindCSS for a clean and modern look.
 
-Currently, two official plugins are available:
+⚡ Technologies Used
+React.js – Component-based architecture for building UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Context API – Manages global state for the shopping cart.
 
-## Expanding the ESLint configuration
+TailwindCSS – For styling and responsiveness.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React Icons – Used for cart and UI icons.
+
